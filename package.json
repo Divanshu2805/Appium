@@ -1,0 +1,21 @@
+{
+  "name": "appium-js-example",
+  "version": "1.0.0",
+  "description": "Appium mobile UI test autoomation example",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/*.js"
+  },
+  "keywords": [
+    "appium",
+    "javascript",
+    "webdriver",
+    "android"
+  ],
+  "author": "Svetlin Nakov",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.0.3",
+    "selenium-webdriver": "^4.0.0-beta.4"
+  }
+}
